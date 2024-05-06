@@ -1,0 +1,54 @@
+_repo: Vasari-on-technique-b-Being-the-introduction-to-the-three-arts-of-design-architecture-sculptu__73397
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Maclehose, Louisa S.
+    gutenberg_agent_id: '57055'
+    url: http://www.gutenberg.org/2009/agents/57055
+creator:
+  author:
+    agent_name: Vasari, Giorgio
+    birthdate: 1511
+    deathdate: 1574
+    gutenberg_agent_id: '9769'
+    url: http://www.gutenberg.org/2009/agents/9769
+    wikipedia: https://en.wikipedia.org/wiki/Giorgio_Vasari
+  editor:
+    agent_name: Brown, G. Baldwin (Gerard Baldwin)
+    aliases:
+    - Brown, Gerard Baldwin
+    - Brown, Girard Baldwin
+    birthdate: 1849
+    deathdate: 1932
+    gutenberg_agent_id: '57056'
+    url: http://www.gutenberg.org/2009/agents/57056
+    wikipedia: https://en.wikipedia.org/wiki/Gerard_Baldwin_Brown
+description: ''
+gutenberg_issued: '2024-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73397'
+  lccn: 08012590
+language: en
+pgterms:marc904: https://archive.org/details/vasariontechniqu00vasa
+pgterms:marc905: 20220830093319vasari
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Richard Tonsing, deaurider, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bJ. M. Dent & Company, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture -- Early works to 1800'
+- !lcsh 'Painting -- Early works to 1800'
+- !lcsh 'Art -- Technique'
+- !lcsh 'Sculpture -- Early works to 1800'
+- !lcc 'N'
+- GITenberg
+title: 'Vasari on technique : $b Being the introduction to the three arts of design,
+  architecture, sculpture, and painting. Prefixed to the lives of the most excellent
+  painters, sculptors and architects'
+url: http://www.gutenberg.org/ebooks/73397
