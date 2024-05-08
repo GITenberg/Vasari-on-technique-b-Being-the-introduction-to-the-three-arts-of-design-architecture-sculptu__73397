@@ -5,6 +5,9 @@ contributor:
     agent_name: Maclehose, Louisa S.
     gutenberg_agent_id: '57055'
     url: http://www.gutenberg.org/2009/agents/57055
+covers:
+- cover_type: archival
+  image_path: 73397-h/images/cover.jpg
 creator:
   author:
     agent_name: Vasari, Giorgio
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57056
     wikipedia: https://en.wikipedia.org/wiki/Gerard_Baldwin_Brown
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73397#Vasari-on-technique-b-Being-the-introduction-to-the-three-arts-of-design-architecture-sculptu_
 gutenberg_issued: '2024-04-14'
 gutenberg_type: Text
 identifiers:
